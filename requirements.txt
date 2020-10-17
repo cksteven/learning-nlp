@@ -4,3 +4,5 @@ matplotlib==3.3.2
 scikit-learn==0.23.2
 dask==2.30.0
 nlpia==0.5.2
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
